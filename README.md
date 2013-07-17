@@ -9,3 +9,7 @@ date:
 
 pagesize:
 ![image](./1Toolkit-snapshots/pagesize.png)
+
+iploc:
+![image](./1Toolkit-snapshots/iploc.png)
+
